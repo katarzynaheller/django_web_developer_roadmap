@@ -33,3 +33,6 @@ Subject | Learning resources | Link | Duration
 ------------------ | -------- | --------------- | -------
 CSS | Responsive design system by freecodecamp.org | https://www.youtube.com/watch?v=lRaL-8qZ0mM&t=45s | 6h 45min
 CSS | CSS documentation | https://developer.mozilla.org/en-US/docs/Web/CSS |
+CSS | Guide to flexbox | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ |
+CSS | Guide to grid | https://css-tricks.com/snippets/css/complete-guide-grid/ |
+
