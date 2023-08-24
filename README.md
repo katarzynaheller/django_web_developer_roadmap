@@ -25,14 +25,15 @@ Django | portfolio website | https://www.youtube.com/watch?v=pLN-OnXjOJg&list=PL
    
 Subject | Learning resources | Link | Duration
 ------------------ | -------- | --------------- | -------
-Django | interview questions for junior | https://www.youtube.com/watch?v=9ai0b1LRMQM | 30min
+Django | interview questions for a junior developer | https://www.youtube.com/watch?v=9ai0b1LRMQM | 30min
 
 ## 5. HTML/CSS basics
    
 Subject | Learning resources | Link | Duration
 ------------------ | -------- | --------------- | -------
-CSS | Responsive design system by freecodecamp.org | https://www.youtube.com/watch?v=lRaL-8qZ0mM&t=45s | 6h 45min
+CSS | Create a design system with CSS - web development course | https://www.youtube.com/watch?v=lRaL-8qZ0mM&t=45s | 6h 45min
 CSS | CSS documentation | https://developer.mozilla.org/en-US/docs/Web/CSS |
 CSS | Guide to flexbox | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ |
 CSS | Guide to grid | https://css-tricks.com/snippets/css/complete-guide-grid/ |
+Boostrap | Bootstrap CSS framework full course for beginners | https://www.youtube.com/watch?v=-qfEOE4vtxE&t=826s | 2h 46min
 
